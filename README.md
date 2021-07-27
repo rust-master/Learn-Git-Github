@@ -1,2 +1,2 @@
 # Learn-Git-Github
-This is test repo
+This repo is to learn the student about git and GitHub
